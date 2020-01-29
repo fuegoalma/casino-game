@@ -1,0 +1,34 @@
+canvas
+{
+    border-style: solid;
+    position: absolute;
+}
+
+button
+{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+#winPanel
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+#userScores
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/
